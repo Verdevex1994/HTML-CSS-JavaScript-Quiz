@@ -1,0 +1,107 @@
+#quiz {
+    margin-left: 20px;
+    background: rgba(61, 209, 219, 0.877);
+    padding: 10px;
+    border-radius: 20px;
+    width:400px;
+
+}
+
+
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: bolder;
+
+}
+
+#button {
+
+    background: rgb(10, 218, 89);
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    transition-duration: 0.5s;
+    margin-top: 15px;
+    font-size: 30px;
+}
+
+#button1 {
+
+    background: rgb(10, 218, 89);
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    transition-duration: 0.5s;
+    margin-top: 15px;
+    font-size: 30px;
+}
+
+#p {
+
+    background: rgb(10, 218, 89);
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    transition-duration: 0.5s;
+    margin-top: 15px;
+    font-size: 30px;
+}
+
+
+
+
+
+
+
+
+h1 {
+    margin-left: 60px;
+}
+
+#button:hover {
+    background: white;
+    border: 1px solid rgb(29, 112, 3);
+    color: rgb(10, 1, 1);
+    cursor: pointer;
+
+}
+
+
+#button1:hover {
+    background: rgb(240, 4, 4);
+    border: 1px solid rgb(29, 112, 3);
+    color: rgb(10, 1, 1);
+    cursor: pointer;
+}
+#Finished {
+    padding:30px;
+    background: red;
+    border-radius: 20px;
+    width:400px;
+    font-size: 25px;
+    margin-left: 500px;
+    float: left;
+    margin-top: -600px;
+    height:550px;
+
+
+}
+
+#pictures {
+    width: 355px;
+    height:275px;
+    margin-left: 5px;
+
+    
+}
+
+
+
+
+
+
+
+
